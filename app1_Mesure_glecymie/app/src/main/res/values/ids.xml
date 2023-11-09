@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextValeurMesuree" type="id" />
+    <item name="tvAge" type="id" />
+    <item name="etValeur" type="id" />
+    <item name="sbage" type="id" />
+    <item name="rboui" type="id" />
+    <item name="btConsulter" type="id" />
+    <item name="rbnon" type="id" />
+    <item name="etvaleur" type="id" />
+    <item name="tvage" type="id" />
+    <item name="tvresultat" type="id" />
+</resources>
